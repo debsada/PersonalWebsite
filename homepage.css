@@ -4,3 +4,7 @@ html,body{
   background-size: cover;
   height: 100%;
 }
+
+.title{
+  text-align: center;
+}
