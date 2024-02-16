@@ -8,14 +8,19 @@ html,body{
 
 .title{
   text-align: center;
+}
+
+.font{
   font-family: "Dancing Script", cursive;
+  opacity: 1;
 }
 
 .parent{
   width: 600px;
-  height: 500px;
+  height: 300px;
   position: relative;
   margin: auto;
+ 
 }
 
  .child{
@@ -36,7 +41,7 @@ html,body{
   margin: auto;
   margin-top: 45px;
   background-color: grey;
-  opacity: 0.5;
+  opacity: 0.7;
 } 
 
 .headshot{
