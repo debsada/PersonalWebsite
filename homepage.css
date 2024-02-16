@@ -11,37 +11,26 @@ html,body{
   font-family: "Dancing Script", cursive;
 }
 
-.black-box{
+.parent{
   width: 600px;
   height: 500px;
-  /* border-color: black;
-  border-style: solid; */
   position: relative;
   margin: auto;
 }
-
-/* .grey-box{
-  width: 50px;
-  height: 400px;
-  border-style: solid;
-  border-color: gray;
-
- 
-} */
 
  .child{
   position: absolute;
   border: solid;
 }  
 
-.child-box-1{
+.child-box-image{
   left: 0;
   top: 0;
   width: 400px;
   height: 300px;
 }
 
-.child-box-2{
+.child-box-about-me{
   left:300px;
   width: 300px;
   height: 200px;
