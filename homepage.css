@@ -20,7 +20,6 @@ html,body{
 
  .child{
   position: absolute;
-  border: solid;
 }  
 
 .child-box-image{
@@ -31,15 +30,23 @@ html,body{
 }
 
 .child-box-about-me{
-  left:300px;
-  width: 300px;
-  height: 200px;
+  left:350px;
+  width: 450px;
+  height: 225px;
   margin: auto;
   margin-top: 45px;
+  background-color: grey;
+  opacity: 0.5;
 } 
 
 .headshot{
   width: 400px;
   height: 300px;
   object-fit: cover;
+}
+
+.description{
+  font-size: small;
+  font-family: "Dancing Script", cursive;
+  text-align: center;
 }
