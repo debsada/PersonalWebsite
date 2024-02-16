@@ -37,3 +37,9 @@ html,body{
   margin: auto;
   margin-top: 45px;
 } 
+
+.headshot{
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+}
